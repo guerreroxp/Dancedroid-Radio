@@ -1,7 +1,7 @@
 {
-  "name": "Nexo Web Radio",
-  "short_name": "nexostreaming.com",
-  "description": "Musica en vivo 24 horas!",
+  "name": "DanceDroid Web Radio",
+  "short_name": "DANCEDROID",
+  "description": "dIONDE LAS DECADAS SE FUSIONAN",
   "icons": [
     {
       "src": "assets/redes.png",
@@ -50,8 +50,8 @@
   "related_applications": [
     {
       "platform": "play",
-      "url": "https://play.google.com/store/apps/details?id=com.radioaferozcontamana.app",
-      "id": "com.radioaferozcontamana.app"
+      "url": "https://play.google.com/",
+      "id": ""
     }
   ]
 }
